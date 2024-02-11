@@ -1,1 +1,2 @@
 # Login-user-system
+The project was based on security purpose for authentication for the user with user name and password, so the backend server  was build with Node.js and handles POST reuests for login purpose with responsds of success or failure message and for the frontend HTML, jaascript and css languages have been use for user input stylimg the form and submisiion and send request to the backend. Bascially its a user login system demonstrating basic authentication flow between frontend and backend.
